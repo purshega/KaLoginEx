@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KaLoginEx</string>
+    <string name="kakao_app_key">5d3b6d87afeae52a02d5bf42b5fb10a3 </string>
+    <string name="facebook_app_id">1519602871399999</string>
+</resources>
